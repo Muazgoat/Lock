@@ -13,6 +13,8 @@ This Java implementation of a lock system provides basic functionality for manag
 3. A customizable lock
 
 
+## Resources
+[OpenAI's ChatGPT Documentation](https://openai.com/chatgpt)
 
 ## Author
 
@@ -21,3 +23,5 @@ Muaz Abdulhafiz
 ## Date
 
 06/07/2024
+
+
